@@ -1,0 +1,16 @@
+C:\Workspaces-ClassesandFunctions\BeeHive\obj\Debug\net5.0\BeeHive.csprojAssemblyReference.cache
+C:\Workspaces-ClassesandFunctions\BeeHive\obj\Debug\net5.0\BeeHive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces-ClassesandFunctions\BeeHive\obj\Debug\net5.0\BeeHive.AssemblyInfoInputs.cache
+C:\Workspaces-ClassesandFunctions\BeeHive\obj\Debug\net5.0\BeeHive.AssemblyInfo.cs
+C:\Workspaces-ClassesandFunctions\BeeHive\obj\Debug\net5.0\BeeHive.csproj.CoreCompileInputs.cache
+C:\Workspaces-ClassesandFunctions\BeeHive\bin\Debug\net5.0\BeeHive.exe
+C:\Workspaces-ClassesandFunctions\BeeHive\bin\Debug\net5.0\BeeHive.deps.json
+C:\Workspaces-ClassesandFunctions\BeeHive\bin\Debug\net5.0\BeeHive.runtimeconfig.json
+C:\Workspaces-ClassesandFunctions\BeeHive\bin\Debug\net5.0\BeeHive.runtimeconfig.dev.json
+C:\Workspaces-ClassesandFunctions\BeeHive\bin\Debug\net5.0\BeeHive.dll
+C:\Workspaces-ClassesandFunctions\BeeHive\bin\Debug\net5.0\ref\BeeHive.dll
+C:\Workspaces-ClassesandFunctions\BeeHive\bin\Debug\net5.0\BeeHive.pdb
+C:\Workspaces-ClassesandFunctions\BeeHive\obj\Debug\net5.0\BeeHive.dll
+C:\Workspaces-ClassesandFunctions\BeeHive\obj\Debug\net5.0\ref\BeeHive.dll
+C:\Workspaces-ClassesandFunctions\BeeHive\obj\Debug\net5.0\BeeHive.pdb
+C:\Workspaces-ClassesandFunctions\BeeHive\obj\Debug\net5.0\BeeHive.genruntimeconfig.cache
